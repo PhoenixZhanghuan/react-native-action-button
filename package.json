@@ -1,11 +1,72 @@
 {
-  "name": "react-native-action-button",
-  "version": "1.0.0",
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/PhoenixZhanghuan/react-native-action-button",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/PhoenixZhanghuan/react-native-action-button",
+        "spec": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:PhoenixZhanghuan/react-native-action-button.git",
+          "sshUrl": "git+ssh://git@github.com/PhoenixZhanghuan/react-native-action-button.git",
+          "httpsUrl": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git",
+          "gitUrl": "git://github.com/PhoenixZhanghuan/react-native-action-button.git",
+          "shortcut": "github:PhoenixZhanghuan/react-native-action-button",
+          "directUrl": "https://raw.githubusercontent.com/PhoenixZhanghuan/react-native-action-button/master/package.json"
+        }
+      },
+      "/Users/zhanghuan/ReactNativeProject/rcshop-onreact"
+    ]
+  ],
+  "_from": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git",
+  "_id": "react-native-action-button@1.0.0",
+  "_inCache": true,
+  "_location": "/react-native-action-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/PhoenixZhanghuan/react-native-action-button",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/PhoenixZhanghuan/react-native-action-button",
+    "spec": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:PhoenixZhanghuan/react-native-action-button.git",
+      "sshUrl": "git+ssh://git@github.com/PhoenixZhanghuan/react-native-action-button.git",
+      "httpsUrl": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git",
+      "gitUrl": "git://github.com/PhoenixZhanghuan/react-native-action-button.git",
+      "shortcut": "github:PhoenixZhanghuan/react-native-action-button",
+      "directUrl": "https://raw.githubusercontent.com/PhoenixZhanghuan/react-native-action-button/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/PhoenixZhanghuan/react-native-action-button.git#bab8562edb5e3609f699501b12bea80f110693ef",
+  "_shasum": "98dfa3f7f413c35f99d5d17b8d24742cab2d6799",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/PhoenixZhanghuan/react-native-action-button",
+  "_where": "/Users/zhanghuan/ReactNativeProject/rcshop-onreact",
+  "author": "",
+  "dependencies": {},
   "description": "react native actionButton",
+  "devDependencies": {},
+  "gitHead": "bab8562edb5e3609f699501b12bea80f110693ef",
+  "license": "ISC",
   "main": "index.js",
+  "name": "react-native-action-button",
+  "optionalDependencies": {},
+  "readme": "# react-native-action-button\nreact native animation\n",
+  "readmeFilename": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "version": "1.0.0"
 }
